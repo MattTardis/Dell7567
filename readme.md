@@ -1,4 +1,5 @@
-
+ ## forked from Doapeat/Dell7567，感谢大佬
+ *这只是一个简单维护的EFI
 
 | 配置 / Hardware | 详情 / Detail|
 | ------ | ------ | 
