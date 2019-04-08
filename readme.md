@@ -1,4 +1,4 @@
-话不多说，先上配置
+
 
 | 配置 / Hardware | 详情 / Detail|
 | ------ | ------ | 
@@ -6,13 +6,13 @@
 | 操作系统 / OS | macOS Mojave 18A389 |
 | 处理器 / CPU | Intel Core i7-7700HQ @ 2.80GHz |
 | 内存 / Memory|  8 GB ( Hynix DDR4 2400MHz )|
-| 硬盘 / HardDrive| Samsung SM961 256GB|
+| 硬盘 / HardDrive| WDC WDS250G2B0B  TOSHIBA MQ01ABD100|
 | 显卡 / Graphics Card| Intel HD Graphics 630 (platform-id:0x591B0000) |
 | 声卡 / Sound Card | Realtek ALC256 ( layout-id:2/56 )|
-| 网卡 / Network Card | Dell DW1820A ( BCM94350ZAE ) |
+| 网卡 / Network Card | 未经测试 |
 
 ## 注意事项
-* 1.适配系统：macOS 10.13 各版本到 10.14 （10.13 、10.13.6 、 10.14 已测试通过）
+* 1.适配系统：macOS 10.14.4
 
 * 2.未使用ssdt-x.aml变频,已测试使用Clover仿冒MacBookPro14,3，完美变频。看见有人说MacBookPro14,3存在问题，不能使用HDMI，建议换MacBookPro14,1，目前HDMI不能用，由于精力有限，暂时不换！  
 
