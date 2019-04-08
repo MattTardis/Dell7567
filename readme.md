@@ -27,28 +27,6 @@
 
 - 独立显卡，因为macOS不支持Optimus技术
 - Intel无线网卡，请自行更换
-## 图片欣赏
-
-![01Pic05](./Pictures/ScreenShot/Pic05.png)
-
-![02WIFI](./Pictures/ScreenShot/WIFI.png)
-
-![07 Graphics](./Pictures/ScreenShot/Graphics.png)
-
-![08 Power](./Pictures/ScreenShot/Power.png)
-
-![04 Audio](./Pictures/ScreenShot/AUDIO.png)
-
-![05 VOL](./Pictures/ScreenShot/Vol.png)
-
-![06 BT](./Pictures/ScreenShot/BT.png)
-
-![03 5G](./Pictures/ScreenShot/5G.png)
->5Ghz和2.4Ghz的蓝牙不冲突
-
-
-![09 CPU-S](./Pictures/ScreenShot/CPU-S.png)
->变频24档足够了吧
 
 
 ## 闲扯
