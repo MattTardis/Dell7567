@@ -10,7 +10,7 @@
 | 硬盘 / HardDrive| WDC WDS250G2B0B  TOSHIBA MQ01ABD100|
 | 显卡 / Graphics Card| Intel HD Graphics 630 (platform-id:0x591B0000) |
 | 声卡 / Sound Card | Realtek ALC256 ( layout-id:2/56 )|
-| 网卡 / Network Card | 未经测试 |
+| 网卡 / Network Card | Broadcom BCM94352z/DW1560 |
 
 ## 需要注意的事情
 * 1.适配系统：macOS 10.14.4 已安装并测试
@@ -27,13 +27,13 @@
 ## 无法工作的部分
 
 - 独立显卡，因为macOS不支持Optimus技术
-- Intel无线网卡，请自行更换
+- Intel无线网卡，请自行更换，推荐Broadcom BCM94352z/DW1560
 
 
 ## 闲扯
 
 
-&emsp;&emsp;自带Intel无线网卡无法驱动，可尝试更换DW1560、DW1820A。
+&emsp;&emsp;自带Intel无线网卡无法驱动，可尝试更换DW1560
 &emsp;&emsp;
 
 
@@ -41,6 +41,8 @@
 
 * 19.4.8
 	* 更新Clover及Kext，已在实机安装使用测试过。
+* 19.4.15
+	* 更新添加DW1560网卡驱动，实测WiFi/蓝牙正常。
 
 ## 如果你认可我的努力，可以点一个Star，感谢
 
